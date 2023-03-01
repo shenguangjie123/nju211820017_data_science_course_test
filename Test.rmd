@@ -30,6 +30,7 @@ plot(pressure)
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 ```{r message=FALSE,warning=FALSE,cache=TRUE,comment='',tidy=TRUE}
+#https://github.com/shenguangjie123/nju211820017_data_science_course_test.git
 library(ggplot2)
 require(ggplot2)
 data()
